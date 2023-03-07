@@ -2,7 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, clone and start the API backend server
+Clone the https://github.com/iccm-africa/iccm-backend.
+Make sure it includes commit 5179e8ef from the fork at github.com/phox4ever/iccm-backend, or use the phox4ever-fork directly.
+Follow the iccm-backend README to start the backend server.
+
+Then, run the frontend development server:
 
 ```bash
 npm run dev
